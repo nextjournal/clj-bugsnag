@@ -1,4 +1,4 @@
-(defproject whitepages/clj-bugsnag "0.3.0"
+(defproject whitepages/clj-bugsnag "0.4.0"
   :description "Fully fledged Bugsnag client. Supports ex-data and ring middleware."
   :url "https://github.com/whitepages/clj-bugsnag"
   :license {:name "Eclipse Public License"
