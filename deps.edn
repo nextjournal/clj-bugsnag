@@ -1,0 +1,8 @@
+{:paths
+ ["src"]
+ :deps
+ {clj-stacktrace {:mvn/version "0.2.8"}
+  clj-http {:mvn/version "2.0.0"}
+  cheshire {:mvn/version "5.5.0"}
+  environ  {:mvn/version "1.0.2"}
+  org.clojure/data.json {:mvn/version "0.2.6"}}}
